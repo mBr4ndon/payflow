@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>934002144559-l4gmb9rg26n6vpig0psqmcglc8aaeb9d.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.934002144559-l4gmb9rg26n6vpig0psqmcglc8aaeb9d</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBRHcxjO33X7E1R5929OIlXeY6USl4LuBA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>934002144559</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.payflow</string>
+	<key>PROJECT_ID</key>
+	<string>payflow-app-4ad08</string>
+	<key>STORAGE_BUCKET</key>
+	<string>payflow-app-4ad08.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:934002144559:ios:76cd3dcf59ea252e9b1dda</string>
+	</dict>
+</plist>
